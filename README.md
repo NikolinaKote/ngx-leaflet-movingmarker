@@ -3,6 +3,11 @@ Moving markers for [ngx-leaflet], based on the awesome work of [@ewoken].
 
 ### Table of Contents
 [Install](*install)
+[Usage](*usage)
+[Api](*api)
+[ToDo](*todo)
+[License](*license)
+[Credits](*credits)
 
 ## Install
 npm usage
