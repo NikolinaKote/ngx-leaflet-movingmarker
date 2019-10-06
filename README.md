@@ -2,12 +2,12 @@
 Moving markers for [ngx-leaflet], based on the awesome work of [@ewoken].
 
 ### Table of Contents
-[Install](*install)
-[Usage](*usage)
-[Api](*api)
-[ToDo](*todo)
-[License](*license)
-[Credits](*credits)
+- ### [Install](#install)
+- ### [Usage](#usage)
+- ### [Api](#api)
+- ### [ToDo](#todo)
+- ### [License](#license)
+- ### [Credits](#credits)
 
 ## Install
 npm usage
@@ -44,4 +44,4 @@ MIT License
 
 ## Credits
 I just addapted the existing javascript libary to be used in angular with typescript.
-All credits goes to [@ewoken].
+All credits goes to [@ewoken]. 
