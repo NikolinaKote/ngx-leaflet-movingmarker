@@ -1,5 +1,5 @@
 # ngx-leaflet-movingmarker
-Moving markers for [ngx-leaflet], based on the awesome work of [@ewoken].
+Moving markers for [ngx-leaflet](), based on the awesome work of [@ewoken].
 
 ### Table of Contents
 - ### [Install](#install)
@@ -45,3 +45,6 @@ MIT License
 ## Credits
 I just addapted the existing javascript libary to be used in angular with typescript.
 All credits goes to [@ewoken]. 
+
+[ngx-leaflet]: <https://github.com/Asymmetrik/ngx-leaflet>
+[@ewoken]: <https://github.com/ewoken/Leaflet.MovingMarker>
