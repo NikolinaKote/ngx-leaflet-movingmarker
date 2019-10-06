@@ -24,13 +24,13 @@ const options: MovingMarkerOptions = {
     loop: false,
 };
 
-map.addLayer(new MovingMarker(
-    [
+map.addLayer(new MovingMarker([
         new L.LatLng(10, 10), // start location
         new L.LatLng(20, 20) // end location
     ],
     [5000], // deslocation time
-    options);
+    options
+);
 ```
 
 ## Api
