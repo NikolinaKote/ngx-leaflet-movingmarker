@@ -1,0 +1,28 @@
+{
+    "author": "Artur Ataíde",
+    "version": "0.0.1",
+    "name": "@arturataide/ngx-leaflet-movingmarker",
+    "artifactName": "ngx-leaflet-movingmarker",
+    "description": "Moving Marker for ngx-leaflet based on Leaflet.MovingMarker",
+    "license": "MIT",
+    "main": "index.ts",
+    "keywords": [
+        "leaflet",
+        "markers",
+        "moving marker"
+    ],
+    "homepage": "https://github.com/arturataide/ngx-leaflet-movingmarker#readme",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/arturataide/ngx-leaflet-movingmarker.git"
+    },
+    "peerDependencies": {
+        "leaflet": "1",
+        "@asymmetrik/ngx-leaflet": ">=6.0.1"
+    },
+    "devDependencies": {
+        "@types/leaflet": "1",
+        "tslint": "5",
+        "typescript": "3.4"
+    }
+}
