@@ -14,6 +14,8 @@ npm usage
 
 ## Usage
 ```ts
+import {MovingMarker, MovingMarkerOptions} from 'ngx-leaflet-movingmarker';
+
 const options: MovingMarkerOptions = {
     icon: L.icon({
         iconSize: fromConfig.ICON_SIZE,
