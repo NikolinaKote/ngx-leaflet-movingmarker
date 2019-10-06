@@ -10,7 +10,18 @@ Moving markers for [ngx-leaflet], based on the awesome work of [@ewoken].
 - ### [Credits](#credits)
 
 ## Install
-npm usage
+Dependencies and Typings
+```sh
+
+npm install --save leaflet
+npm install --save npm install @asymmetrik/ngx-leaflet
+npm install --save-dev @types/leaflet
+```
+
+Library
+```
+npm install --save @arturataide/ngx-leaflet-movingmarker
+````
 
 ## Usage
 ```ts
