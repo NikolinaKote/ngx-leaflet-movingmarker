@@ -1,5 +1,5 @@
 # ngx-leaflet-movingmarker
-Moving markers for [ngx-leaflet](), based on the awesome work of [@ewoken].
+Moving markers for [ngx-leaflet], based on the awesome work of [@ewoken].
 
 ### Table of Contents
 - ### [Install](#install)
@@ -14,7 +14,7 @@ npm usage
 
 ## Usage
 ```ts
-import {MovingMarker, MovingMarkerOptions} from 'ngx-leaflet-movingmarker';
+import { MovingMarker, MovingMarkerOptions } from 'ngx-leaflet-movingmarker';
 
 const options: MovingMarkerOptions = {
     icon: L.icon({
